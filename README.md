@@ -1,1 +1,1 @@
-g++ -o HelloWord HelloWord.cpp
+g++ -o HelloWorld HelloWorld.cpp
